@@ -1,6 +1,6 @@
 {
  "format": "hibi-shower-layout",
- "version": 1,
+ "version": 2,
  "name": "Horizon",
  "description": "Landscape. Long horizontal runs across the back wall; cut pieces centered at both back corners.",
  "units": "mm",
@@ -10,6 +10,58 @@
   "height": 1208
  },
  "grout": 1.5875,
+ "patterns": [
+  {
+   "id": "01",
+   "name": "01",
+   "count": 3
+  },
+  {
+   "id": "02",
+   "name": "02",
+   "count": 3
+  },
+  {
+   "id": "03",
+   "name": "03",
+   "count": 3
+  },
+  {
+   "id": "04",
+   "name": "04",
+   "count": 3
+  },
+  {
+   "id": "05",
+   "name": "05",
+   "count": 3
+  },
+  {
+   "id": "06",
+   "name": "06",
+   "count": 3
+  },
+  {
+   "id": "07",
+   "name": "07",
+   "count": 3
+  },
+  {
+   "id": "09",
+   "name": "09",
+   "count": 3
+  },
+  {
+   "id": "10",
+   "name": "10",
+   "count": 3
+  },
+  {
+   "id": "11",
+   "name": "11",
+   "count": 3
+  }
+ ],
  "walls": [
   {
    "id": "left",
