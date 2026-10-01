@@ -1,0 +1,235 @@
+{
+ "format": "hibi-shower-layout",
+ "version": 1,
+ "name": "Drift",
+ "description": "Landscape. Open-space emphasis, with veins drifting across the corners.",
+ "units": "mm",
+ "orientation": "landscape",
+ "tile": {
+  "width": 604,
+  "height": 1208
+ },
+ "grout": 1.5875,
+ "walls": [
+  {
+   "id": "left",
+   "name": "Left wall",
+   "width": 1219.2,
+   "height": 2743.2
+  },
+  {
+   "id": "back",
+   "name": "Back wall",
+   "width": 1828.8,
+   "height": 2743.2
+  },
+  {
+   "id": "right",
+   "name": "Right wall",
+   "width": 1219.2,
+   "height": 2743.2
+  }
+ ],
+ "tiles": [
+  {
+   "id": "t1",
+   "pattern": "01",
+   "rotation": 270,
+   "wall": "left",
+   "x": 11.2,
+   "y": 0.0
+  },
+  {
+   "id": "t2",
+   "pattern": "02",
+   "rotation": 90,
+   "wall": "left",
+   "x": 11.2,
+   "y": 605.59
+  },
+  {
+   "id": "t3",
+   "pattern": "04",
+   "rotation": 90,
+   "wall": "left",
+   "x": 11.2,
+   "y": 1211.17
+  },
+  {
+   "id": "t4",
+   "pattern": "10",
+   "rotation": 90,
+   "wall": "left",
+   "x": 11.2,
+   "y": 1816.76
+  },
+  {
+   "id": "t5",
+   "pattern": "09",
+   "rotation": 270,
+   "wall": "left",
+   "x": 11.2,
+   "y": 2422.35
+  },
+  {
+   "id": "t6",
+   "pattern": "04",
+   "rotation": 90,
+   "wall": "back",
+   "x": -899.19,
+   "y": 0.0
+  },
+  {
+   "id": "t7",
+   "pattern": "03",
+   "rotation": 90,
+   "wall": "back",
+   "x": -899.19,
+   "y": 605.59
+  },
+  {
+   "id": "t8",
+   "pattern": "10",
+   "rotation": 270,
+   "wall": "back",
+   "x": -899.19,
+   "y": 1211.17
+  },
+  {
+   "id": "t9",
+   "pattern": "09",
+   "rotation": 270,
+   "wall": "back",
+   "x": -899.19,
+   "y": 1816.76
+  },
+  {
+   "id": "t10",
+   "pattern": "06",
+   "rotation": 90,
+   "wall": "back",
+   "x": -899.19,
+   "y": 2422.35
+  },
+  {
+   "id": "t11",
+   "pattern": "11",
+   "rotation": 270,
+   "wall": "back",
+   "x": 310.4,
+   "y": 0.0
+  },
+  {
+   "id": "t12",
+   "pattern": "07",
+   "rotation": 90,
+   "wall": "back",
+   "x": 310.4,
+   "y": 605.59
+  },
+  {
+   "id": "t13",
+   "pattern": "05",
+   "rotation": 270,
+   "wall": "back",
+   "x": 310.4,
+   "y": 1211.17
+  },
+  {
+   "id": "t14",
+   "pattern": "07",
+   "rotation": 270,
+   "wall": "back",
+   "x": 310.4,
+   "y": 1816.76
+  },
+  {
+   "id": "t15",
+   "pattern": "11",
+   "rotation": 90,
+   "wall": "back",
+   "x": 310.4,
+   "y": 2422.35
+  },
+  {
+   "id": "t16",
+   "pattern": "05",
+   "rotation": 90,
+   "wall": "back",
+   "x": 1519.99,
+   "y": 0.0
+  },
+  {
+   "id": "t17",
+   "pattern": "10",
+   "rotation": 90,
+   "wall": "back",
+   "x": 1519.99,
+   "y": 605.59
+  },
+  {
+   "id": "t18",
+   "pattern": "06",
+   "rotation": 270,
+   "wall": "back",
+   "x": 1519.99,
+   "y": 1211.17
+  },
+  {
+   "id": "t19",
+   "pattern": "01",
+   "rotation": 270,
+   "wall": "back",
+   "x": 1519.99,
+   "y": 1816.76
+  },
+  {
+   "id": "t20",
+   "pattern": "03",
+   "rotation": 270,
+   "wall": "back",
+   "x": 1519.99,
+   "y": 2422.35
+  },
+  {
+   "id": "t21",
+   "pattern": "05",
+   "rotation": 270,
+   "wall": "right",
+   "x": 0,
+   "y": 0.0
+  },
+  {
+   "id": "t22",
+   "pattern": "07",
+   "rotation": 270,
+   "wall": "right",
+   "x": 0,
+   "y": 605.59
+  },
+  {
+   "id": "t23",
+   "pattern": "11",
+   "rotation": 90,
+   "wall": "right",
+   "x": 0,
+   "y": 1211.17
+  },
+  {
+   "id": "t24",
+   "pattern": "04",
+   "rotation": 90,
+   "wall": "right",
+   "x": 0,
+   "y": 1816.76
+  },
+  {
+   "id": "t25",
+   "pattern": "01",
+   "rotation": 90,
+   "wall": "right",
+   "x": 0,
+   "y": 2422.35
+  }
+ ]
+}

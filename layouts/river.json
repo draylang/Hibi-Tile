@@ -1,0 +1,203 @@
+{
+ "format": "hibi-shower-layout",
+ "version": 1,
+ "name": "River",
+ "description": "Portrait. Prioritizes veins that run sideways across the back wall and turn the corners.",
+ "units": "mm",
+ "orientation": "portrait",
+ "tile": {
+  "width": 604,
+  "height": 1208
+ },
+ "grout": 1.5875,
+ "walls": [
+  {
+   "id": "left",
+   "name": "Left wall",
+   "width": 1219.2,
+   "height": 2743.2
+  },
+  {
+   "id": "back",
+   "name": "Back wall",
+   "width": 1828.8,
+   "height": 2743.2
+  },
+  {
+   "id": "right",
+   "name": "Right wall",
+   "width": 1219.2,
+   "height": 2743.2
+  }
+ ],
+ "tiles": [
+  {
+   "id": "t1",
+   "pattern": "02",
+   "rotation": 180,
+   "wall": "left",
+   "x": 9.61,
+   "y": 0
+  },
+  {
+   "id": "t2",
+   "pattern": "06",
+   "rotation": 0,
+   "wall": "left",
+   "x": 9.61,
+   "y": 1209.59
+  },
+  {
+   "id": "t3",
+   "pattern": "05",
+   "rotation": 0,
+   "wall": "left",
+   "x": 9.61,
+   "y": 2419.18
+  },
+  {
+   "id": "t4",
+   "pattern": "04",
+   "rotation": 180,
+   "wall": "left",
+   "x": 615.2,
+   "y": 0
+  },
+  {
+   "id": "t5",
+   "pattern": "01",
+   "rotation": 0,
+   "wall": "left",
+   "x": 615.2,
+   "y": 1209.59
+  },
+  {
+   "id": "t6",
+   "pattern": "02",
+   "rotation": 0,
+   "wall": "left",
+   "x": 615.2,
+   "y": 2419.18
+  },
+  {
+   "id": "t7",
+   "pattern": "11",
+   "rotation": 0,
+   "wall": "back",
+   "x": 6.81,
+   "y": 0
+  },
+  {
+   "id": "t8",
+   "pattern": "05",
+   "rotation": 0,
+   "wall": "back",
+   "x": 6.81,
+   "y": 1209.59
+  },
+  {
+   "id": "t9",
+   "pattern": "09",
+   "rotation": 180,
+   "wall": "back",
+   "x": 6.81,
+   "y": 2419.18
+  },
+  {
+   "id": "t10",
+   "pattern": "07",
+   "rotation": 180,
+   "wall": "back",
+   "x": 612.4,
+   "y": 0
+  },
+  {
+   "id": "t11",
+   "pattern": "07",
+   "rotation": 0,
+   "wall": "back",
+   "x": 612.4,
+   "y": 1209.59
+  },
+  {
+   "id": "t12",
+   "pattern": "03",
+   "rotation": 0,
+   "wall": "back",
+   "x": 612.4,
+   "y": 2419.18
+  },
+  {
+   "id": "t13",
+   "pattern": "05",
+   "rotation": 180,
+   "wall": "back",
+   "x": 1217.99,
+   "y": 0
+  },
+  {
+   "id": "t14",
+   "pattern": "11",
+   "rotation": 180,
+   "wall": "back",
+   "x": 1217.99,
+   "y": 1209.59
+  },
+  {
+   "id": "t15",
+   "pattern": "06",
+   "rotation": 180,
+   "wall": "back",
+   "x": 1217.99,
+   "y": 2419.18
+  },
+  {
+   "id": "t16",
+   "pattern": "06",
+   "rotation": 180,
+   "wall": "right",
+   "x": 0.0,
+   "y": 0
+  },
+  {
+   "id": "t17",
+   "pattern": "07",
+   "rotation": 0,
+   "wall": "right",
+   "x": 0.0,
+   "y": 1209.59
+  },
+  {
+   "id": "t18",
+   "pattern": "10",
+   "rotation": 0,
+   "wall": "right",
+   "x": 0.0,
+   "y": 2419.18
+  },
+  {
+   "id": "t19",
+   "pattern": "04",
+   "rotation": 0,
+   "wall": "right",
+   "x": 605.59,
+   "y": 0
+  },
+  {
+   "id": "t20",
+   "pattern": "11",
+   "rotation": 180,
+   "wall": "right",
+   "x": 605.59,
+   "y": 1209.59
+  },
+  {
+   "id": "t21",
+   "pattern": "01",
+   "rotation": 0,
+   "wall": "right",
+   "x": 605.59,
+   "y": 2419.18
+  }
+ ]
+}
